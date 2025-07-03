@@ -12,9 +12,6 @@ A simple, clean, and responsive To-Do List application built using HTML, CSS, an
 - Dark mode support (optional upgrade)
 - Stores data in localStorage (no backend needed)
 
-## 📸 Demo
-
-![Demo Screenshot](screenshot.png) <!-- Replace with actual screenshot -->
 
 ## 🛠️ Tech Stack
 
